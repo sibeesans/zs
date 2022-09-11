@@ -216,7 +216,7 @@ gg="AM"
 fi
 curl -sS ifconfig.me > /etc/myipvps
 echo " "
-echo "=====================-[ WELCOME TO PREMIUM SERVICE ]-===================="
+echo "=====================-[ Bagoes Vpn Service ]-===================="
 echo ""
 echo "------------------------------------------------------------"
 echo ""
@@ -258,7 +258,7 @@ echo ""
 echo ""
 echo "------------------------------------------------------------"
 echo ""
-echo "===============-[ PREMIUM SCRIPT INDONESIA ]-==============="
+echo "===============-[ Bagoes Installer ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
